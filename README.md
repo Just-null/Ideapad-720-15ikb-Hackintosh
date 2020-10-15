@@ -1,14 +1,13 @@
 # Ideapad-720-15ikb-Hackintosh
 Ideapad-720-15ikb-Hackintosh
 
-![](https://img.shields.io/badge/version-0.6.1-red)![](https://img.shields.io/badge/author-Just-blue)
+![](https://img.shields.io/badge/version-0.6.3-red)![](https://img.shields.io/badge/author-Just-blue)
 
 # **更新日志**
 
-1. OC版本更新到0.6.1，支持big sur的安装
+1. OC版本更新到0.6.3，支持big sur的安装和升级
 2. 更新一些驱动
-3. 更新了oc主题
-4. 修复了开启hidpi后开机第二阶段花屏的bug
+3. 升级到big sur Beta10
 
 # **电脑配置**
 
@@ -29,15 +28,9 @@ Ideapad-720-15ikb-Hackintosh
 5. 网卡
 6. 蓝牙
 
-# **已知问题**
-
-~~开了hidpi后，开机二阶段会小部分花屏~~
-
-注：0.6.0之后只能用官方主题，第三方主题已经失效
-
 # 截图
 
-![关于本机](https://gitee.com/Just-null/blogimgs/raw/master/img_mac/image-20200901135555555.png)
+![关于本机](https://gitee.com/Just-null/blogimgs/raw/master/img_mac/image-20201015152427799.png)
 
 ![蓝牙](https://gitee.com/Just-null/blogimgs/raw/master/img_mac/image-20200901135946487.png)
 
@@ -45,3 +38,4 @@ Ideapad-720-15ikb-Hackintosh
 
 ![电源](https://gitee.com/Just-null/blogimgs/raw/master/img_mac/image-20200901140206152.png)
 
+![触摸板](https://gitee.com/Just-null/blogimgs/raw/master/img_mac/image-20201015152311757.png)
