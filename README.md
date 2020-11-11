@@ -8,6 +8,7 @@ Ideapad-720-15ikb-Hackintosh
 1. OC版本更新到0.6.3，支持big sur的安装和升级
 2. 更新一些驱动
 3. 升级到big sur Beta10
+4. 修复HDMI不正常的问题
 
 # **电脑配置**
 
@@ -29,6 +30,8 @@ Ideapad-720-15ikb-Hackintosh
 6. 蓝牙
 
 # 截图
+
+
 
 ![关于本机](https://gitee.com/Just-null/blogimgs/raw/master/img_mac/image-20201015152427799.png)
 
