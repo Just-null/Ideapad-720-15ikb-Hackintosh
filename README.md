@@ -1,13 +1,13 @@
 # Ideapad-720-15ikb-Hackintosh
 Ideapad-720-15ikb-Hackintosh
 
-![](https://img.shields.io/badge/version-0.6.3-red)![](https://img.shields.io/badge/author-Just-blue)
+![](https://img.shields.io/badge/version-0.6.6-red)![](https://img.shields.io/badge/author-Just-blue)
 
 # **更新日志**
 
-1. OC版本更新到0.6.3，支持big sur的安装和升级
+1. OC版本更新到0.6.6，支持big sur的安装和升级
 2. 更新一些驱动
-3. 升级到big sur Beta10
+3. 升级到big sur 11.2
 4. 修复HDMI不正常的问题
 
 # **电脑配置**
